@@ -23,7 +23,7 @@ A curated list of videos and channels for cybersecurity learning
 
 ## 🛠 Tools
 - [Virtualbox](https://www.virtualbox.org/)
-- [Microsoft Windows 11]((https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
+- [Windows](https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
 - [Ubuntu](https://ubuntu.com/download)
 
 # 📚 Blogs & Learning Platforms
