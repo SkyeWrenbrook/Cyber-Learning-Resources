@@ -20,5 +20,4 @@ A curated list of videos and channels for cybersecurity learning
 | CompTIA Security+ | [View Details](https://www.comptia.org/certifications/security)
 | CEH (Certified Ethical Hacker) | [View Details](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) |
 | Google Cybersecurity Professional Certificate | [View Details](https://www.coursera.org/professional-certificates/google-cybersecurity)
-| 
 
