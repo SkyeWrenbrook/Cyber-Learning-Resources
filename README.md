@@ -32,7 +32,8 @@ A curated list of videos and channels for cybersecurity learning
   
 ## 📖 Glossary & Notes
 - [NIST Cybersecurity Glossary](https://csrc.nist.gov/glossary)
-- My summarized glossary:
+- [Coursera Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+  My summarized glossary:
 
 ## A
 - **Adversarial AI**: Using AI/ML to make attacks more effective.
