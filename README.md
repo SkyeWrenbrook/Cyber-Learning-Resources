@@ -22,7 +22,3 @@ A curated list of videos and channels for cybersecurity learning
 | Google Cybersecurity Professional Certificate | [View Details](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 
-## 📖 Glossary & Notes
-- [Official Coursera Glossary](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-- My personal notes: (
-# 🔐 Cybersecurity Glossary
