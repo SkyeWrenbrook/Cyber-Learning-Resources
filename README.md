@@ -22,11 +22,21 @@ A curated list of videos and channels for cybersecurity learning
 | Google Cybersecurity Professional Certificate | [View Details](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 
-# 🔐 Cybersecurity Glossary
+## 🛠 Tools
+- [Virtualbox](https://www.virtualbox.org/)
+- Microsoft Windows(https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
+- 
+# 📚 Blogs & Learning Platforms
+- [Hack The Box](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- 
 
-A quick reference of key cybersecurity terms from my learning journey.
 
----
+
+
+## 📖 Glossary & Notes
+- [NIST Cybersecurity Glossary](https://csrc.nist.gov/glossary)
+- My summarized glossary:
 
 ## A
 - **Adversarial AI**: Using AI/ML to make attacks more effective.
