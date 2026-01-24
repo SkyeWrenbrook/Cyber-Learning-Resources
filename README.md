@@ -22,3 +22,99 @@ A curated list of videos and channels for cybersecurity learning
 | Google Cybersecurity Professional Certificate | [View Details](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 
+# 🔐 Cybersecurity Glossary
+
+A quick reference of key cybersecurity terms from my learning journey.
+
+---
+
+## A
+- **Adversarial AI**: Using AI/ML to make attacks more effective.
+- **Antivirus**: Software that detects and removes malware.
+- **Asset**: Anything valuable to an organization.
+- **Authentication**: Verifying a user’s identity.
+- **Availability**: Ensuring authorized users can access data.
+
+## B
+- **Business Email Compromise (BEC)**: Phishing where attackers impersonate trusted sources for financial gain.
+
+## C
+- **Computer Virus**: Malicious code that disrupts systems and damages data.
+- **Confidentiality**: Restricting access to authorized users.
+- **CIA Triad**: Confidentiality, Integrity, Availability—core security principles.
+- **Cryptographic Attack**: Targeting secure communication.
+- **Cybersecurity**: Protecting systems, networks, and data from threats.
+
+## D
+- **Database**: Organized collection of data.
+- **Data Point**: A single piece of information.
+
+## H
+- **Hacker**: Someone who gains unauthorized access.
+- **Hacktivist**: Hacker with political motives.
+- **HIPAA**: U.S. law protecting health information.
+
+## I
+- **Integrity**: Data accuracy and reliability.
+- **Internal Threat**: Insider posing security risk.
+- **IDS (Intrusion Detection System)**: Monitors and alerts on suspicious activity.
+
+## L
+- **Linux**: Open-source operating system.
+- **Log**: Record of system events.
+
+## M
+- **Malware**: Software designed to harm systems.
+
+## N
+- **NIST CSF**: Framework for managing cybersecurity risk.
+- **Packet Sniffer**: Tool for analyzing network traffic.
+- **Network Security**: Protecting network infrastructure.
+
+## O
+- **OWASP**: Organization improving software security.
+- **Order of Volatility**: Priority for preserving digital evidence.
+
+## P
+- **Password Attack**: Attempt to crack passwords.
+- **PII**: Data that identifies an individual.
+- **Phishing**: Trick users into revealing sensitive info.
+- **Physical Attack**: Security breach in physical environments.
+- **Social Engineering (Physical)**: Impersonating to gain physical access.
+- **Privacy Protection**: Safeguarding personal data.
+- **Programming**: Writing instructions for computers.
+- **PHI**: Health-related personal data.
+- **Evidence Preservation**: Handling fragile digital evidence properly.
+
+## S
+- **Security Architecture**: Design of security systems.
+- **Security Controls**: Measures to reduce risk.
+- **Security Ethics**: Professional conduct guidelines.
+- **Security Frameworks**: Plans for risk mitigation.
+- **Security Governance**: Directing organizational security efforts.
+- **SIEM**: Tool for analyzing logs and monitoring activity.
+- **SPII**: Highly sensitive personal data.
+- **Social Engineering**: Exploiting human error for access.
+- **Social Media Phishing**: Using social info for attacks.
+- **Spear Phishing**: Targeted phishing attack.
+- **SQL**: Language for managing databases.
+- **Supply Chain Attack**: Exploiting vulnerabilities in third-party systems.
+
+## T
+- **Technical Skills**: Knowledge of tools and procedures.
+- **Threat**: Event that could harm assets.
+- **Threat Actor**: Person or group posing risk.
+- **Transferable Skills**: Skills applicable across careers.
+
+## U
+- **USB Baiting**: Leaving infected USBs to trick users.
+
+## V
+- **Virus**: See Computer Virus.
+- **Vishing**: Voice-based phishing attack.
+
+## W
+- **Watering Hole Attack**: Compromising trusted websites to target users.
+
+
+
