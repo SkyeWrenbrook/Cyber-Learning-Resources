@@ -21,19 +21,15 @@ A curated list of videos and channels for cybersecurity learning
 | CEH (Certified Ethical Hacker) | [View Details](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) |
 | Google Cybersecurity Professional Certificate | [View Details](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
-
 ## 🛠 Tools
 - [Virtualbox](https://www.virtualbox.org/)
-- Microsoft Windows(https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
-- 
+- [Microsoft Windows 11]((https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
+- [Ubuntu](https://ubuntu.com/download)
+
 # 📚 Blogs & Learning Platforms
 - [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
-- 
-
-
-
-
+  
 ## 📖 Glossary & Notes
 - [NIST Cybersecurity Glossary](https://csrc.nist.gov/glossary)
 - My summarized glossary:
