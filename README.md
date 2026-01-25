@@ -26,12 +26,12 @@ A curated list of videos and channels for cybersecurity learning
 - [Windows](https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
 - [Ubuntu](https://ubuntu.com/download)
 
-# 📚 Blogs & Learning Platforms
+## 📚 Blogs & Learning Platforms
 - [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
 
-# News
-- ![News Icon][News](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
+## 📰 News
+- [News](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 ## 📖 Glossary & Notes
 - [NIST Cybersecurity Glossary](https://csrc.nist.gov/glossary)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity))
