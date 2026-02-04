@@ -26,6 +26,8 @@ A curated list of videos and channels for cybersecurity learning
 - [Virtualbox](https://www.virtualbox.org/)
 - [Windows](https://www.microsoft.com/en-us/software-download/windows11?msockid=1f7f69f2a77e6b3f10837f28a6ed6a67)
 - [Ubuntu](https://ubuntu.com/download)
+## 🎧 Podcasts
+- [Darknet Diaries](https://darknetdiaries.com/)
 
 ## 📚 Blogs & Learning Platforms
 - [Hack The Box](https://www.hackthebox.com/)
