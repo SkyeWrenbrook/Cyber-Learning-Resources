@@ -34,7 +34,9 @@ A curated list of videos and channels for cybersecurity learning
 - [TryHackMe](https://tryhackme.com/)
 
 ## 📰 News
-- [News](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
+- [The Hacker News](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
+- [Daily Cyber Threat Brief](https://www.youtube.com/@SimplyCyber)
+  
 ## 📖 Glossary & Notes
 - [NIST Cybersecurity Glossary](https://csrc.nist.gov/glossary)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity))
