@@ -7,6 +7,7 @@ A curated list of videos and channels for cybersecurity learning
 - [IT Edge Network](https://www.youtube.com/@ITEdgeNetwork)
 - [Unix Guy](https://www.youtube.com/@UnixGuy)
 - [Cyberflow](https://www.youtube.com/@cyberflow10)
+- [Simply Cyber](https://www.youtube.com/@SimplyCyber)
 
 ## 🎥 Individual Videos
 - [How I’d Get an IT Job in 2026 (No Experience, No Hype)](https://www.youtube.com/watch?v=8YGPFYXKrm4&list=PLB_t8Phi5YJBBeK2wOQ8ogXLyI2VfRR4c)
@@ -35,7 +36,6 @@ A curated list of videos and channels for cybersecurity learning
 
 ## 📰 News
 - [The Hacker News](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
-- [Daily Cyber Threat Brief](https://www.youtube.com/@SimplyCyber)
   
 ## 📖 Glossary & Notes
 - [NIST Cybersecurity Glossary](https://csrc.nist.gov/glossary)
